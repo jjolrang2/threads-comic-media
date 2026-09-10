@@ -1,0 +1,7 @@
+*
+!.gitignore
+!README.md
+!comics/
+!comics/*.png
+!comics/*.jpg
+!comics/*.webp
