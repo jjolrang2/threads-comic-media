@@ -5,3 +5,7 @@
 !comics/*.png
 !comics/*.jpg
 !comics/*.webp
+!replies/
+!replies/*.png
+!replies/*.jpg
+!replies/*.webp
